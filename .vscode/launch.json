@@ -9,12 +9,19 @@
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
+            "projectName": "Hackerrank_f5af518"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
             "projectName": "Hackerrank_b9d55caa"
         },
         {
             "type": "java",
             "name": "Current File",
-            "request": "launch",
+            "request": "launch"
         },
         {
             "type": "java",
